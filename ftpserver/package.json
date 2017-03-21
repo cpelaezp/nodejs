@@ -1,0 +1,12 @@
+{
+  "name": "NodeFtpServer",
+  "description": "Create ftp srver using nodeftpd module",
+  "version": "0.0.1",
+  "dependencies": {
+    "ftpd": "^0.2.15",
+    "nodeftpd": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
